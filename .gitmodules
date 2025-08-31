@@ -1,0 +1,3 @@
+[submodule "dailyfeed-search"]
+	path = dailyfeed-search
+	url = https://github.com/alpha3002025/dailyfeed-search.git
