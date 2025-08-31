@@ -1,3 +1,6 @@
 [submodule "dailyfeed-search"]
 	path = dailyfeed-search
 	url = https://github.com/alpha3002025/dailyfeed-search.git
+[submodule "dailyfeed-code"]
+	path = dailyfeed-code
+	url = https://github.com/alpha3002025/dailyfeed-code.git
