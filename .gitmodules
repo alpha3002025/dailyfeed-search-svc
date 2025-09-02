@@ -4,3 +4,6 @@
 [submodule "dailyfeed-code"]
 	path = dailyfeed-code
 	url = https://github.com/alpha3002025/dailyfeed-code.git
+[submodule "dailyfeed-infrastructure"]
+	path = dailyfeed-infrastructure
+	url = https://github.com/alpha3002025/dailyfeed-infrastructure.git
