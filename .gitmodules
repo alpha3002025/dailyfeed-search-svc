@@ -7,3 +7,6 @@
 [submodule "dailyfeed-infrastructure"]
 	path = dailyfeed-infrastructure
 	url = https://github.com/alpha3002025/dailyfeed-infrastructure.git
+[submodule "dailyfeed-redis-support"]
+	path = dailyfeed-redis-support
+	url = https://github.com/alpha3002025/dailyfeed-redis-support.git
