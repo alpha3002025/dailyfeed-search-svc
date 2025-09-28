@@ -1,0 +1,1 @@
+./gradlew :dailyfeed-search:bootRun --args='--spring.profiles.active=local --server.port=8083' 2>&1 | tee dailyfeed-search.log
