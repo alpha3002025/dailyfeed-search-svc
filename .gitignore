@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 dailyfeed-search.log
 app-helm/dailyfeed-backend-chart
+.claude
 
 ### STS ###
 .apt_generated
