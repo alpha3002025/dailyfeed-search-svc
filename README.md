@@ -72,7 +72,6 @@ source install-helm-local.sh ## dailyfeed-search 실행
 
 
 ## dev
-> 11월 첫째 주에 dev 프로필 인프라 생성/삭제 코드와 함께 helm 스크립트를 마무리할 예정입니다. 조금만 기다려주세요.
 
 local PC 에서 dev 프로필로 실행할 경우 (dev 프로필로 EKS 로 배포시에는  cluster 만 EKS 로 변경해서 수행하면 됨)
 
