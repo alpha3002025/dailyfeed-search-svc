@@ -32,6 +32,14 @@ source run-local-was.sh
 <br/>
 
 
+위의 명령을 실행하기 전에 다음과 같이 docker-compose 를 이용해 kafka,mongodb,redis,mysql 을 설치해야 하는데, 다음의 명령어로 설치하실수 있습니다.
+```bash
+cd dailyfeed-infrastructure/docker/mysql-mongodb-redis
+docker-compose up -d
+```
+
+<br/>
+
 
 ## local
 
