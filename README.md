@@ -163,6 +163,10 @@ IMAGE_VERSION=cbt-20251103-1 ./jibDockerBuild.sh
 ```bash
 # 새로운 환경에서 클론 (clone)
 git clone --recurse-submodules http://github.com/alpha3002025/dailyfeed-search-svc  
+cd dailyfeed-member-svc
+
+## 서브모듈들 각각을 main 브랜치로 checkout && pull origin main
+git submodule foreach 'git checkout main && git pull origin main'
 
 # 또는 클론 후 submodule 초기화
 git clone dailyfeed-search-svc
